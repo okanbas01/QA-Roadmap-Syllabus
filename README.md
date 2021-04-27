@@ -1,4 +1,4 @@
-# QA-Roadmap-Syly-Bus-
+# Quality Assurance Roadmap Syllabus
 
 
 1- [https://www.turkishtestingboard.org/foundation-level-ders-programi-turkce/](https://www.turkishtestingboard.org/foundation-level-ders-programi-turkce/)
@@ -25,4 +25,3 @@
 
 12- [https://www.youtube.com/channel/UCvMbGj7aumypkOKXYcBtgbQ](https://www.youtube.com/channel/UCvMbGj7aumypkOKXYcBtgbQ)
 
-13-Okan 
