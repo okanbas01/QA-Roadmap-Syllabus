@@ -1,27 +1,22 @@
 # Quality Assurance Roadmap Syllabus
 
 
-1- [https://www.turkishtestingboard.org/foundation-level-ders-programi-turkce/](https://www.turkishtestingboard.org/foundation-level-ders-programi-turkce/)
+## Contents
+- [Introduction](#introduction)
+- [Sources](#Sources)
+- [Test Plan Sample](#test-plan-sample)
+- [The Road Map](#the-road-map)
+- [Advices](#advices)
 
-2- [https://medium.com/trendyol-tech](https://medium.com/trendyol-tech)
+## Introduction
 
-3- [https://hazelturan78.medium.com/](https://hazelturan78.medium.com/) 
+Testing is an essential phase in any product life cycle; whether if it's a food, cars, or software production line, the outcomes should match what's expected and meet, satisfy the need that we created the product for.
 
-4- [https://www.btkakademi.gov.tr/portal/course/yaz-l-m-test-otomasyonu-12117#!/about](https://www.btkakademi.gov.tr/portal/course/yaz-l-m-test-otomasyonu-12117#!/about) 
+Having a solid base of understanding how the software components work and integrate with each other as well as gaining the skills of breaking things is an essential skill-set for any QA engineer. Software testing is the art of investigating the software and finding any unintended behavior that might generate undesired scenarios.
 
-5- [https://www.btkakademi.gov.tr/portal/course/api-ve-api-testi-12025#!/about](https://www.btkakademi.gov.tr/portal/course/api-ve-api-testi-12025#!/about) 
+Below you can find the path for QA and software testing learning curve which you might need to start the journey.
 
-6- [https://www.linkedin.com/today/author/testertunc?trk=author-info__article-link](https://www.linkedin.com/today/author/testertunc?trk=author-info__article-link) 
+## The Road Map
 
-7- [https://sinanerdinc.medium.com/](https://sinanerdinc.medium.com/) 
-
-8- [https://www.linkedin.com/today/author/alpermermer?trk=author-info__article-link](https://www.linkedin.com/today/author/alpermermer?trk=author-info__article-link) 
-
-9- [https://tr.linkedin.com/in/gunesmes](https://tr.linkedin.com/in/gunesmes) 
-
-10- [https://www.testrisk.com/](https://www.testrisk.com/) 
-
-11- [http://testkalite.com/](http://testkalite.com/)
-
-12- [https://www.youtube.com/channel/UCvMbGj7aumypkOKXYcBtgbQ](https://www.youtube.com/channel/UCvMbGj7aumypkOKXYcBtgbQ)
-
+![QA Engineer Road Map 2020](https://i.imgur.com/oSW5bgk.png)
+![QA Engineer Road Map 2020](https://i.imgur.com/Zwl0LcY.png)
